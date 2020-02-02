@@ -1,0 +1,7 @@
+{
+    "item.testmod.fabric_item": "test sword",
+    "item.testmod.fabric_wsword":"wooden knight sword",
+    "item.testmod.fabric_meatball":"meat ball",
+    "item.testmod.fabric_sashimi":"sashimi",
+    "item.testmod.fabric_ration":"ration"
+}
