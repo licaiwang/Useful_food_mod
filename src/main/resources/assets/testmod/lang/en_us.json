@@ -1,7 +1,7 @@
 {
-    "item.testmod.fabric_item": "test sword",
-    "item.testmod.fabric_wsword":"wooden knight sword",
-    "item.testmod.fabric_meatball":"meat ball",
-    "item.testmod.fabric_sashimi":"sashimi",
-    "item.testmod.fabric_ration":"ration"
+    "item.UsefulFood.fabric_item": "test sword",
+    "item.UsefulFood.fabric_wsword":"wooden knight sword",
+    "item.UsefulFood.fabric_meatball":"meat ball",
+    "item.UsefulFood.fabric_sashimi":"sashimi",
+    "item.UsefulFood.fabric_ration":"ration"
 }

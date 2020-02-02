@@ -9,8 +9,8 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-public class testmod implements ModInitializer {
-    public static final String MODID = "testmod";
+public class UsefulFood implements ModInitializer {
+    public static final String MODID = "UsefulFood";
 
     public static final Item MeatBall = new FoodBase(new Item.Settings().group(ItemGroup.FOOD).food(new FoodComponent.Builder().hunger(14).saturationModifier(8f).meat().alwaysEdible().statusEffect(new StatusEffectInstance(StatusEffects.STRENGTH,20*20),1f).build()));
     public static final Item Sashimi = new FoodBase(new Item.Settings().group(ItemGroup.FOOD).food(new FoodComponent.Builder().hunger(4).saturationModifier(6f).alwaysEdible().statusEffect(new StatusEffectInstance(StatusEffects.DOLPHINS_GRACE,20*5),0.4f).build()));

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "testmod:item/fabric_ration"
+        "layer0": "UsefulFood:item/fabric_ration"
     }
 }

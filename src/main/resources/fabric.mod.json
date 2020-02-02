@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "testmod",
+  "id": "UsefulFood",
   "version": "${version}",
 
   "name": "My test mod",
@@ -14,12 +14,12 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/testmod/models/icon.png",
+  "icon": "assets/UsefulFood/models/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.my.test.mod.testmod"
+      "net.my.test.mod.UsefulFood"
     ]
   },
   "mixins": [
