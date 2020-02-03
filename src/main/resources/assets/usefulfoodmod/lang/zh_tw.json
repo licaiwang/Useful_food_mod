@@ -1,7 +1,16 @@
 {
-    "item.usefulfood.fabric_item": "騎士劍",
     "item.usefulfood.fabric_wsword": "木製騎士劍",
     "item.usefulfood.fabric_meatball":"肉丸",
     "item.usefulfood.fabric_sashimi":"刺身",
-    "item.usefulfood.fabric_ration":"乾糧"
+    "item.usefulfood.fabric_ration":"乾糧",
+    "item.usefulfood.fabric_suspiciousmeat":"可疑的肉",
+    "item.usefulfood.fabric_ratatouille":"雜菜煲",
+    "item.usefulfood.fabric_rawturkeyfeast":"生火雞大餐",
+    "item.usefulfood.fabric_turkeyfeast":"火雞大餐",
+    "item.usefulfood.fabric_poppingcandy":"跳跳糖",
+    "item.usefulfood.fabric_herostew":"英雄煲",
+    "item.usefulfood.fabric_chewinggum":"口香糖",
+    "item.usefulfood.fabric_chewbones":"潔牙骨",
+    "item.usefulfood.fabric_seafoodfeast":"海鮮大餐",
+    "item.usefulfood.fabric_destinycarrot":"命運蘿蔔"
 }
