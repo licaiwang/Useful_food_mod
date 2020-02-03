@@ -1,9 +1,9 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "usefulfood:fabric_rawturkeyfeast"
+        "item": "usefulfoodmod:fabric_rawturkeyfeast"
     },
-    "result": "usefulfood:fabric_turkeyfeast",
+    "result": "usefulfoodmod:fabric_turkeyfeast",
     "experience": 5,
     "cookingtime": 500
 }

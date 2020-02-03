@@ -10,11 +10,11 @@
             "item": "minecraft:chicken"
         },
         "L": {
-            "item": "usefulfood:fabric_ratatouille"
+            "item": "usefulfoodmod:fabric_ratatouille"
         }
     },
     "result": {
-        "item": "usefulfood:fabric_rawturkeyfeast",
+        "item": "usefulfoodmod:fabric_rawturkeyfeast",
         "count": 1
     }
 }

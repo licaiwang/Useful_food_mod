@@ -7,14 +7,14 @@
     ],
     "key": {
         "#": {
-            "item": "usefulfood:fabric_meatball"
+            "item": "usefulfoodmod:fabric_meatball"
         },
         "M": {
             "item": "minecraft:mushroom_stew"
         }
     },
     "result": {
-        "item": "usefulfood:fabric_herostew",
+        "item": "usefulfoodmod:fabric_herostew",
         "count": 1
     }
 }
