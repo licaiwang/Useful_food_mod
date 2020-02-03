@@ -1,0 +1,121 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C#D",
+        "EFG",
+        " B "
+    ],
+    "key": {
+        "#": [
+            {
+
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:potato"
+        }, {
+            "item": "minecraft:beetroot_soup"
+        },{
+            "item": "minecraft:red_mushroom"
+        },{
+            "item": "minecraft:brown_mushroom"
+        },{
+        "item": "minecraft:carved_pumpkin"
+    }
+    ],
+
+
+    "C":[
+        {
+
+        "item": "minecraft:carrot"
+    },
+    {
+        "item": "minecraft:potato"
+    }, {
+        "item": "minecraft:beetroot_soup"
+    },{
+        "item": "minecraft:red_mushroom"
+    },{
+        "item": "minecraft:brown_mushroom"
+    },{
+    "item": "minecraft:carved_pumpkin"
+}
+],
+    "D":[
+        {
+
+        "item": "minecraft:carrot"
+    },
+    {
+        "item": "minecraft:potato"
+    }, {
+        "item": "minecraft:beetroot_soup"
+    },{
+        "item": "minecraft:red_mushroom"
+    },{
+        "item": "minecraft:brown_mushroom"
+    },{
+    "item": "minecraft:carved_pumpkin"
+}
+],
+    "E":[
+        {
+
+        "item": "minecraft:carrot"
+    },
+    {
+        "item": "minecraft:potato"
+    }, {
+        "item": "minecraft:beetroot_soup"
+    },{
+        "item": "minecraft:red_mushroom"
+    },{
+        "item": "minecraft:brown_mushroom"
+    },{
+    "item": "minecraft:carved_pumpkin"
+}
+],
+    "F":[
+        {
+
+        "item": "minecraft:carrot"
+    },
+    {
+        "item": "minecraft:potato"
+    }, {
+        "item": "minecraft:beetroot_soup"
+    },{
+        "item": "minecraft:red_mushroom"
+    },{
+        "item": "minecraft:brown_mushroom"
+    },{
+    "item": "minecraft:carved_pumpkin"
+}
+],
+    "G":[
+        {
+
+        "item": "minecraft:carrot"
+    },
+    {
+        "item": "minecraft:potato"
+    }, {
+        "item": "minecraft:beetroot_soup"
+    },{
+        "item": "minecraft:red_mushroom"
+    },{
+        "item": "minecraft:brown_mushroom"
+    },{
+    "item": "minecraft:carved_pumpkin"
+}
+],
+        "B": {
+            "item": "minecraft:beetroot_soup"
+        }
+    },
+    "result": {
+        "item": "usefulfood:fabric_ratatouille",
+        "count": 1
+    }
+}

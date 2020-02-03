@@ -16,7 +16,9 @@
             "item": "minecraft:cooked_mutton"
         },{
             "item": "minecraft:cooked_porkchop"
-        } ],  
+        },{ 
+            "item": "minecraft:rotten_flesh"
+        }],  
         "P": {
             "item": "minecraft:carrot"
         },

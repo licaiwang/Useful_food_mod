@@ -5,11 +5,14 @@
             "item": "minecraft:wheat"
         },
         {
-            "item": "minecraft:potato"
+            "item": "minecraft:baked_potato"
+        },
+        {
+            "item": "minecraft:baked_potato"
         }
     ],
     "result": {
         "item": "usefulfood:fabric_ration",
-        "count": 8
+        "count": 3
     }
 }

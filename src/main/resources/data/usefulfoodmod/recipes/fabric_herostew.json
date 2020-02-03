@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#M#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "usefulfood:fabric_meatball"
+        },
+        "M": {
+            "item": "minecraft:mushroom_stew"
+        }
+    },
+    "result": {
+        "item": "usefulfood:fabric_herostew",
+        "count": 1
+    }
+}

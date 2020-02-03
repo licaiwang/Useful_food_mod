@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#K#",
+        "CDC",
+        " M "
+    ],
+    "key": {
+        "#": [{
+            "item": "minecraft:cooked_cod"
+        },{
+            "item": "minecraft:cooked_salmon"
+        }
+    ],
+        "K": {
+            "item": "minecraft:kelp"
+        },
+        "C":[ {
+            "item": "minecraft:carrot"
+        } ,{
+            "item": "minecraft:potato"
+        }
+    ],
+        "D": {
+            "item": "minecraft:carved_pumpkin"
+        },
+        "M": {
+            "item": "minecraft:mushroom_stew"
+        }
+    },
+    "result": {
+        "item": "usefulfood:fabric_seafoodfeast",
+        "count": 1
+    }
+}

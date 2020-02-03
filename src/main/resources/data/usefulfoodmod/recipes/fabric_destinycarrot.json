@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_nugget"
+        },
+        {
+            "item": "minecraft:carrot"
+        }
+    ],
+    "result": {
+        "item": "usefulfood:fabric_destinycarrot",
+        "count": 1
+    }
+}
